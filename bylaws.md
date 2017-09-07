@@ -34,23 +34,25 @@ The Local chapter may establish a Local pledge system of voluntary donations for
 
 ## ARTICLE IV. Local Meetings.
 
-### Section 1. General Meeting.
+### Section 1: Conventions.
 
-The Local will hold a minimum of one General Meeting annually, and all members of the Local will receive three weeks written (or electronic mail) notice and an agenda of the General Meeting. The General Meeting will elect Local officers and may adopt an annual budget. In general, it is the highest legislative body of the Local.
+The Local shall meet in Convention annually during the first six months of the year, with at least sixty days notice given to all members. The Convention shall meet to elect officers, and to debate and decide primarily, but not exclusively, Local issues, the political orientation of the organization, and program direction.
 
-### Section 2. Regular Meetings.
+### Section 2: Special Meetings.
 
-The Local will hold Regular Meetings at least four times annually, the time and place of which shall be set in a schedule published and distributed by the Local Executive Committee. The Regular Meetings will set Local policy and work priorities, and will include political education sessions.
+A Special Meeting of the Local shall be called by the Local Council or by ten percent of members, with at least five days notice given to all members. The call to the Special Meeting shall specify the matters to be discussed therein and no other matter may be brought to the floor.
 
-The Local Executive Committee will set the agenda for Regular Meetings. In general, the Regular Meeting is the operating legislative body of the Local.
+### Section 3: General Meetings.
 
-### Section 3. Emergency Meetings.
+The Local will hold General Meetings at least four times annually, the time and place of which shall be set in a schedule published and distributed by the Local Council. The Local Council will set the agenda for General Meetings.
 
-The Local Executive Committee may call an Emergency Meeting of the Local on five days notice when an urgent and important matter requires deliberation.
+### Section 4: Informational Meetings.
 
-### Section 4. Quorum.
+The Local Council may call additional Local-wide Informational Meetings for a variety of reasons but at which official business will not be conducted and policies will not be set. For the purposes of these bylaws, Local-wide Informational Meetings should not be considered General Meetings.
 
-A quorum of 10 percent of the members (but not fewer than six persons) is required for General, Regular, or Emergency Meetings to transact business.
+### Section 5: Quorums.
+
+Unless specified otherwise in these bylaws, a quorum of ten percent of the membership shall be required for valid meetings of the Convention, Special Meeting, or General Meeting.
 
 ## ARTICLE V. Local Officers: Powers and Duties.
 
