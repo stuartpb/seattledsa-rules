@@ -16,7 +16,7 @@ We are socialists because we are developing a concrete strategy for achieving th
 
 ## ARTICLE I.	Name.
 
-The name of the Local shall be Seattle Democratic Socialists of America, a not-for-profit corporation.
+The name of this organization shall be the Seattle Local of the Democratic Socialists of America, also known as Seattle DSA or SDSA, and referred to throughout this document as the Local.
 
 ## ARTICLE III. Membership.
 
