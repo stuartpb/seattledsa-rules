@@ -166,7 +166,17 @@ If a position is uncontested, the nominee will be declared elected by acclamatio
 
 ## ARTICLE XIII. Amendments.
 
-Proposed amendments to these Bylaws must be made by written resolution, endorsed by five members of the Local chapter of DSA, and submitted to the Executive Committee a month in advance of a General or Regular Meeting. The Executive Committee is required to provide the Local membership with two weeks’ written notice of the proposed amendments. The amendment must be approved by a majority vote of two consecutive (Regular or General) Local meetings.
+### Section 1:
+
+The Bylaws must be amended by a two-thirds majority vote of members present at a General Meeting. Furthermore, the bylaws voted on at the [date of adoption] General Meeting will be provisional for one year, to be revisited in a General Membership during the 2019 Local Convention.
+
+### Section 2:
+
+The Local Council shall put forward to the next General Meeting Amendments proposed and endorsed by no fewer than twenty members.
+
+### Section 3:
+
+Any group of at least four Local Council Members may also propose Amendments to be considered at a General Meeting.
 
 ## ARTICLE XIV. Rules of the Local.
 
