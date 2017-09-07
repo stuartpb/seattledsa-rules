@@ -58,17 +58,39 @@ Unless specified otherwise in these bylaws, a quorum of ten percent of the membe
 
 ## ARTICLE III. Membership.
 
-### Section 1. Membership
+### Section 1: Definition.
 
-Members of the Seattle Local DSA will be those individuals whose dues to national DSA are paid in full, who reside and/or work in the Seattle/ King County area. It will be the responsibility of members to approve policies and guidelines for the operation of the local chapter, to elect delegates to the national convention, to vote on matters related to national policy, and to make recommendations on issues and other matters to the National Political Committee of DSA.
+Members in good standing will include all DSA members residing within the Local jurisdiction agreed upon by the National DSA and the Local, who have paid annual dues within the last year, have paid lifetime dues, or are current on their monthly dues, as verified by National DSA, and are not currently suspended or terminated from the Local. All Local members in good standing shall have full and equal rights of membership.
 
-### Section 2. Removal of Members
+### Section 2: Voting and Office.
 
-If a full member is found to be in substantial disagreement with the principles or policies of national DSA, or if s/he is found to be consistently engaging in undemocratic, disruptive behavior, or if s/he is found to be under the discipline of any self-defined democratic centralist organization, the Local may vote to expel her/him from DSA. In order for such a finding to be made, another DSA member must formally prefer written charges against the member in question to the Local Executive Committee, which shall set the date of a Local meeting for deliberations on the charges. The member in question must receive a copy of the written charges and notice of the meeting a minimum of two weeks before that meeting takes place. Expulsion of a member or affiliate member requires a two-thirds vote of the Local meeting. An expelled full member may appeal to the National Political Committee of DSA.
+All Members in good standing shall be eligible to:
 
-### Section 3. Dues.
+Vote in all elections and matters brought before The General Membership, and
 
-The Local chapter may establish a Local pledge system of voluntary donations for its members.
+Be elected as delegates from the Local to Regional, State, or National DSA convenings, after having been a Member for at least sixty days; and
+
+Be nominated or appointed to office in the Local, after having been a Member for at least ninety days.
+
+### Section 3: Proxy Voting.
+
+The Local Council will explore and may create a system for proxy voting at General Meetings. Prior to implementation, the Local must amend these bylaws outlining proxy voting rules.
+
+### Section 4: Grievances.
+
+The Local shall have an official grievance policy in accordance with national guidelines. When such guidelines are provided, the Local must amend these bylaws outlining the grievance procedure.
+
+### Section 5: Member Discipline, Suspension, and Expulsion.
+
+Pursuant to Article III, Section 4 of the National DSA constitution, the Local Council shall have the power to suspend or expel members from the Local. Members facing suspension or expulsion must receive written notice of charges against them at least fifteen days before a meeting of the Local Council and must be given the opportunity to be heard before the Local Council. A two-thirds vote is required to suspend or expel a member. The Local Council will only have the power to suspend or expel a member from the Local. Only the National organization shall have the power to suspend or expel a member from the National organization. Decisions on suspension or expulsion may be appealed at the Local Convention, by Special Meeting, or to the National Political Committee of DSA.
+
+Members may be disciplined:
+
+if they are found to have harassed or acted violently against another member; or
+
+if they are found to be in substantial disagreement with the principles or policies of the organization; or
+
+if they consistently engage in undemocratic, disruptive behavior.
 
 ## ARTICLE V. Local Officers: Powers and Duties.
 
