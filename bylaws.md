@@ -92,37 +92,114 @@ if they are found to be in substantial disagreement with the principles or polic
 
 if they consistently engage in undemocratic, disruptive behavior.
 
-## ARTICLE V. Local Officers: Powers and Duties.
+## ARTICLE IV: Election of Officers.
 
-### Section 1. Officers and Terms
+### Section 1: Nominations.
 
-The officers of the Local will be the Chair, First Vice Chair, Second Vice Chair, Secretary, and Treasurer. The term of office will be one year, and shall run from February 1 to January 31 or until their successors are elected.. At least one of the officers must be a woman and least one must be a man.
+All Officers of the Local Council shall be elected at the Local’s annual Convention. Nominations to run for the Local Council may be submitted to the outgoing Local Council in advance of the Convention. Nominations from the floor of the Convention, with eight members who are eligible to vote seconding the nomination, are also allowed. Any member may nominate another member in good standing for elected position in the Local. No one may nominate themselves.
 
-### Section 2. Vacancies.
+### Section 3: Process.
 
-In the event of a vacancy in the office of Chair, the First Vice Chair will assume that office. In the event of a vacancy in any other Local office, the Local Executive Committee will appoint a replacement for the remainder of the term.
+The elections process shall be fair, transparent, and democratic. There shall be a vote by secret ballot for each contested office at the Local Convention. The Local Council will be responsible for ensuring that elections are held, and shall appoint an Elections Committee to oversee the process. Members of the Elections Committee are ineligible for office. No candidate shall be involved in handling or counting ballots.
 
-### Section 3. Chair.
+### Section 4: Noticing of Elections.
 
-a) The Chair will be the chief executive officer of the Local. S/he will preside over Local and Executive Committee meetings or will appoint a substitute to assume the powers and duties of the presiding officer as specified in Robert’s Rules of Order. The Chair will be the official public spokesperson for the Local and will initiate such actions and policies as the Local’s general welfare may demand. In the event that the Chair is unable to perform her/his duties for a single event or a longer period of time, the First Vice Chair will serve as replacement.
+Along with notice of the Local’s annual Convention (see Article II, section 2), the Local Council shall include the time and place of the election, the candidates and/or questions before the membership in the election, and all pertinent instructions.
 
-b) The Chair will be responsible also for coordinating the day-to-day operations and political work of the Local’s branches and committees.
+## ARTICLE V: Local Council.
 
-c) The Chair will report to Local Regular Meetings on the business of the Executive Committee Meetings, at which time a copy of the minutes of those meetings will be available for inspection.
+### Section 1: Purpose.
 
-### Section 4. Secretary.
+The Seattle DSA Local Council serves as the democratically elected leadership of the Local and is the highest legislative and judicial body under the General Membership. The Local Council shall carry out actions which advance the principles, policies, strategies, and campaigns enumerated by the Membership in General Meetings. The Local Council shall manage the day-to-day affairs of the Local between General Meetings.
 
-a) The Secretary will be responsible for answering all correspondence and queries of the Local, and for maintaining an up-to-date membership list of the Local. S/he will insure effective communication with the national DSA. S/he will temporarily assume the responsibilities of the Chair, if the Vice Chairs are not able to do so.
+### Section 2: Vacancies.
 
-b) The Secretary will be responsible also for the taking of minutes of all local and Executive Committee Meetings, and shall have custody of these minutes, and the resolutions, reports and other official records of the Local. S/he shall transfer official records in good condition to her/his successor. Official records shall include meeting minutes and member lists.
+In the event of a vacancy on the Local Council, the Local Council may appoint a replacement by majority vote to serve until the following election.
 
-### Section 5. Treasurer.
+### Section 3: Terms.
 
-The Treasurer will be responsible for the funds and financial records of the Local. All funds collected by the Local will be turned over to the Treasurer, who shall deposit them in a bank account under the name of the Local. In cooperation with the Secretary, the Treasurer will be responsible for insuring that membership dues are paid up-to-date. The Treasurer will prepare the annual Local budget, and deliver the Local financial report to the General Meeting of the Local, as well as periodic progress reports as requested by the Executive Committee of the Local.
+Officers shall be elected at the annual convention and take office thirty days later. Their terms shall last until thirty days after the completion of the following annual convention, approximately one year later.
 
-### Section 6. Additional Duties.
 
-The Local Executive Committee may assign additional temporary duties to an officer of the Local, so long as such assignments do not conflict with the designation of responsibilities outlined in these Bylaws.
+### Section 4: Oversight.
+
+The Local Council will oversee all Committees and other official formations of the Local. See Article VI for more information on Committees.
+
+### Section 5: State of the Local.
+
+The Local Council is responsible for presenting a “State of the Local” address each year at the annual Local Convention.
+
+
+### Section 6: Conflict Resolution.
+
+The Local Council is responsible for fairly adjudicating disagreements between members or groups of members within the Local. This shall include developing and overseeing an accountable and fair mechanism of conflict resolution.
+
+### Section 7: Voting.
+
+Unless stated otherwise in these bylaws, all elected and appointed members of the Local Council have full and equal voting rights for Local Council decisions. The Local Council shall hold official meetings no less than once every sixty days, the time and place of which shall be set in a schedule published and distributed by the Local Council no less than seven days prior. Regular meetings of the Local Council may be attended by all members in good standing.
+
+### Section 8: Special Meetings.
+
+Unless stated otherwise in these bylaws, all elected and appointed members of the Local Council have full and equal voting rights for Local Council decisions. The Local Council shall hold official meetings no less than once every sixty days, the time and place of which shall be set in a schedule published and distributed by the Local Council. Regular meetings of the Local Council may be attended by all members in good standing.
+
+### Section 9: Quorum.
+
+A quorum of fifty percent shall be required for a valid meeting of the Local Council.
+
+### Section 10: Composition.
+
+The Local Council shall consist of thirteen elected Council Members: five Officers, six elected Organizers, and two At-Large Council Members. The Officers shall be two Co-Chairs, one Vice Chair, one Secretary, and one Treasurer. The six elected Organizers shall be three Internal Organizers and three External Organizers.
+
+(a) Co-Chairs:
+
+The Co-Chairs shall be the official public spokespersons for the Local and will initiate such actions and policies as the Local’s general welfare may demand. The Co-Chairs shall organize and preside over all official meetings of the organization and the Local Council. The Co-Chairs shall maintain consistent communication with all committee leaders and facilitate collaboration and coordination between them. Additionally:
+
+The Co-Chairs will also act as, or appoint, the official representatives of the Local to the National Organization and to other DSA Locals. This does not apply during official business at the National DSA Convention, when Local Delegates may act independently on behalf of the Local’s membership.
+
+The Co-Chairs serve as executive officers of the Local, and they are listed on financial accounts along with the Treasurer. Expenditures over $200 must be approved by the Treasurer and no less than one Co-Chair.
+
+At least one Co-Chair must be a person who does not identify as both White and Cis-Male.
+
+At time of their election, at least one Co-Chair must be a person with a current annual income less than twice the City of Seattle minimum wage for large employers who pay towards medical benefits.
+
+(b) Vice Chair:
+
+The Vice Chair is responsible for assisting the Co-Chairs with all of their duties. If both Co-Chairs are unable to perform their duties, the Vice Chair shall perform all duties and assume all responsibilities of the Co-Chairs until such a time as one or both Co-Chairs are able to resume their posts.
+
+(c) Secretary:
+
+The Secretary is responsible for taking minutes of all General Membership and Local Council Meetings, and shall be responsible for publishing these minutes, as well as resolutions, reports, and other official records of the Local. The Secretary may appoint, but must oversee, a temporary proxy minutes-taker for any meeting. That proxy may not vote on behalf of the Secretary. Additionally:
+
+The Secretary shall transfer official records in good condition to their successor.
+
+The Secretary will assume the responsibilities of one of the Co-Chairs, if both Co-Chairs and the Vice Chair is unable to do so.
+
+(d) Treasurer:
+
+The Treasurer will be responsible for administration of funds, budget, and financial organization of the Local, including overseeing fundraising activities for the Local. All funds collected by the Local will be turned over to the Treasurer, who shall deposit them in a bank account under the name of the Local. The Treasurer will report to the Local Council on the financial status of the organization at each Local Council Meeting. The Treasurer will maintain transparent and open financial reports available to the entire membership upon request by an officer of the Local Council. The Treasurer will be responsible for ensuring that membership dues are paid up-to-date. The Treasurer will prepare the annual Local budget, and deliver the Local financial report at General Meetings of the Local.
+
+(e) Internal Organizers:
+
+Internal Organizers will co-chair the Internal Organizing Committee (see Article VI), which is responsible for fostering a lively participatory and democratic culture within the Local through the development, education, mobilization, and recruitment of members. This includes the keeping of a database of members, conducting a census, driving diversity efforts, as well as any tasks assigned to the role by the Local Council. The Internal Organizing Committee is also charged with organizing General Meetings, Informational Meetings, and social, educational, and fundraising events. Under the direction of the Local Council, the Internal Organizing Committee shall develop and oversee a program of socialist cadre development that includes skills training and political education; and a system of Mobilizers (similar to union shop stewards) who will act as an active conduit of information and engagement between the General Membership and the Local Council.
+
+(f) External Organizers:
+
+External Organizers will co-chair the External Organizing Committee (see Article VI), which will lead the Local’s fight for a socialist political agenda in the Seattle area and beyond. Under the direction of the Local Council and in order to realize the policies, priorities and campaigns set forth by the General Membership, the External Organizing Committee shall manage or execute all of the Local’s issue and electoral campaigns, direct actions, rallies, and other activities expressly targeted at the general public for political purposes.
+
+(g) At-Large Local Council Members:
+
+At-Large Local Council Members will participate in Local Council
+decision-making, and are responsible for attending all relevant meetings and reading all relevant documents. At-Large Local Council members are also tasked with representing the views of the membership that elected them as well as helping to advance the goals of the Local generally.
+
+### Section 10: Termination of Local Council Members.
+
+Termination of a Local Council Member may be initiated in two ways. First, the Local Council may vote to remove an Officer from the Local Council in the event that the member is unable or unwilling to perform their duties. Removal of a Local Council member requires a three-quarters majority vote by the Local Council. The Local Council must notify the Officer in writing of the termination and they may request to appeal the decision at the next general membership meeting. Reinstatement of a terminated Officer requires a two-thirds majority vote of the membership present at a General Membership meeting.
+
+Alternately, a petition to remove one or more Council Members, signed by no less than ten percent of the members, may be presented to the Local Council; the Local Council must then call a Special Meeting where by a two-thirds majority the membership may terminate the Local Council Member. Grounds for termination include but are not limited to:
+
+missing more than two Local Council meetings in succession or three meetings during the term without an acceptable excuse; or
+
+gross incompetence, witting mismanagement of funds, consistently acting or encouraging action in contravention of the best interests of the organization.
 
 ## ARTICLE VI. Executive Committee.
 
