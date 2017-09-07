@@ -2,11 +2,7 @@
 
 [Adopted September 2016]
 
-## ARTICLE I.	Name.
-
-The name of the Local shall be Seattle Democratic Socialists of America, a not-for-profit corporation.
-
-## ARTICLE II. Purpose.
+## PREAMBLE
 
 The Seattle Local of the Democratic Socialists of America seeks to facilitate the transition to a truly democratic and socialist society, one in which the means/resources of production are democratically and socially controlled.
 
@@ -17,6 +13,10 @@ DSA envisions a humane social order based on popular control of resources and pr
 Our conception of socialism is a profoundly democratic one. It is rooted in the belief that human beings should be free to develop to their fullest potential, that public policies should be determined not by wealth but by popular participation, and that individual liberties should be carefully safeguarded. It is committed to a freedom of speech that does not recoil from dissent, to a freedom to organize independent trade unions, women’s groups, political parties, and other formations -- recognizing these as essential bulwarks against the dangers of an intrusive state. It is committed to a freedom of religion that acknowledges the rights of those for whom spiritual concerns are central.
 
 We are socialists because we are developing a concrete strategy for achieving that vision. In the present, we are building a visible socialist presence within the broad democratic left. In the long run, we hope to build a majority movement capable of making democratic socialism a reality in the United States. Our strategy acknowledges the class structure of the U.S. society. This class structure means that there is a basic conflict of interest between those sectors with enormous economic power and the vast majority of the population.
+
+## ARTICLE I.	Name.
+
+The name of the Local shall be Seattle Democratic Socialists of America, a not-for-profit corporation.
 
 ## ARTICLE III. Membership.
 
