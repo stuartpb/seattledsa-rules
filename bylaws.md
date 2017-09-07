@@ -201,37 +201,21 @@ missing more than two Local Council meetings in succession or three meetings dur
 
 gross incompetence, witting mismanagement of funds, consistently acting or encouraging action in contravention of the best interests of the organization.
 
-## ARTICLE VI. Executive Committee.
+## ARTICLE VI. Committees.
 
-### Section 1. Composition.
+### Section 1: Standing Committees.
 
-The Local Executive Committee will be composed of the five officers of the Local, the chair(s) of Local Youth Sections, and the chair(s) of any Local Branches.
+There shall be two standing committees, the Internal Organizing Committee and the External Organizing Committee. See Article V, sec. 10 for more details on the responsibilities of these two committees.
 
-### Section 2. Duties.
+After Internal and External Organizing Co-Chairs are elected, they shall nominate at least three additional Lead Organizers to be appointed by the Local Council so that each Organizing Committee has a leadership committee of at least six members, including the elected Organizing Co-Chairs. Appointed Lead Organizers will serve for a term of one year, during which time they may be dismissed by a two-thirds majority vote of the Local Council. Appointed Lead Organizers do not sit on the Local Council.
 
-a) The Executive Committee administers the affairs of the Local and oversees the implementation of the decisions of the General and Regular Meetings; it may also propose policy to the General and Regular Meetings. It shall have the power to receive reports of any Committee or Branch, and advise thereon, to call emergency meetings of the Local, and to act on any matter that requires immediate and urgent action. The Executive Committee is the regular executive body of the Local, and thus subordinate to its Legislative bodies, the General and Regular Meetings.
+### Section 2: Formation of Working Groups.
 
-b) The Local Executive Committee will be responsible for establishing program activities for the Local chapter, for proposing guidelines and policies that will subsequently be voted on by full members of DSA, and for acting on the organization’s behalf between Local meetings.
+Additional Committees or Working Groups shall be formed by the Local Council to address a specific operational need that cannot be addressed by any existing committee. Two Co-Chairs, appointed by the Local Council, shall lead each Working Group; these appointed Working Group Co-Chairs will sit as nonvoting members on the Local Council. The Local Council may dismiss one or both Co-Chairs as is necessary and may dissolve any Working Group that no longer serves the goals set by the General Membership; dissolution of a Working Group and the dismissal of a Working Group Chair both require a two-thirds majority vote by the Local Council.
 
-c) The Local Executive Committee has the authority to endorse actions on behalf of the local. These endorsement are subject to overruling at subsequent general meetings.
+### Section 3: Jurisdiction.
 
-### Section 3. Meetings.
-
-The meetings of the Executive Committee will be held at the call of the Chair at such intervals as may be determined by a prior Executive Committee Meeting or by consultation with any three members of the Executive Committee. All members of the Executive Committee must (ordinarily) be given four days oral or written notice of regular Executive Committee Meetings; a 24-hour notice may be given under special emergency circumstances.
-
-### Section 4. Quorum.
-
-A quorum of three members of the Executive Committee is required for the transaction of Executive Committee business.
-
-## ARTICLE VII. Steering Committee.
-
-### Section 1. Composition
-
-The Local Steering Committee will be composed of the Executive Committee and the Chair of each Chapter Committee and Branch. In the event that an Executive Officer is selected as a Committee Chair, the Vice Chair will take that Committee’s seat on the Steering Committee.
-
-### Section 2. Duties
-
-The Steering Committee will advise and assist the Executive Committee in setting the direction and priorities of the local.
+The Local Council shall adjudicate any jurisdictional disputes between committees, working groups, and Local Council Members.
 
 ## ARTICLE VIII. Branches.
 
@@ -242,20 +226,6 @@ A branch is a subgroup of the Local consisting of at least five full members in 
 ### Section 2. Youth Sections.
 
 Branches established on college campuses and consisting of students will be called Local Youth Sections. Youth Sections must have at least five full members in good standing with national DSA. The chairs of Local Youth Sections will hold membership on the Local Executive Committee.
-
-## ARTICLE IX. Committees.
-
-### Section 1. Duration.
-
-The Local will have Standing and Special committees. Standing Committees will exist indefinitely and must be established and dissolved by a vote of full members at a Regular Meeting of the Local. Special Committees may be formed for a limited and explicit duration by a vote of the Local Executive Committee. This may be overruled by a member vote at a Regular Meeting of the Local.
-
-### Section 2. Leadership
-
-Committee Chairs and Vice Chairs will be selected by a vote of their respective Committee for a term of one year.
-
-### Section 2. Duties.
-
-Committee Chairs will be responsible for reporting committee activities to the Executive Committee and the Regular Meetings of the Local.
 
 ## ARTICLE X. Delegates to National, Regional, and State Bodies.
 
