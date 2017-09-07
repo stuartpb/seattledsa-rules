@@ -233,15 +233,11 @@ A Caucus will be formally recognized by the Local in one or more official media 
 
 Branches are geographical subgroups of the Local consisting of at least five full members in good standing. Branches may hold Informational Meetings, outreach events, and other gatherings where official business of the Local will not be conducted.
 
-## ARTICLE X. Delegates to National, Regional, and State Bodies.
+## ARTICLE IX. Delegates.
 
-### Section 1. Convention.
+### Section 1: Election.
 
-Local delegates and alternates to the National Convention will be elected by full members of the Local Chapter of DSA. Elections for the National Convention delegation shall be held on the schedule announced by the national organization.
-
-## ARTICLE XI. Prohibited Activity
-
-Seattle Local shall not engage in activity prohibited by the IRS guidelines established for 501(c)4 organizations or similar rules established by the state of Washington. Nor shall the local engage in any activity prohibited by resolutions adopted by DSA’s National Convention or DSA’s National Political Committee.
+Delegates to National, Regional, and State bodies shall be elected by the General Membership at a Special or General Meeting within ninety days of the Convention or other gathering at which delegates are needed. When scheduling a delegate election, the Local Council should always aim to minimize the cost of travel for elected delegates. The delegate election process will conform to DSA National bylaws and the National Convention calendar.
 
 ## ARTICLE XII. Nominations and Recalls.
 
