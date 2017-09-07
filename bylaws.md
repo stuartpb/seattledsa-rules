@@ -263,12 +263,20 @@ The Local Council shall put forward to the next General Meeting Amendments propo
 
 Any group of at least four Local Council Members may also propose Amendments to be considered at a General Meeting.
 
-## ARTICLE XIV. Rules of the Local.
+## ARTICLE XII. Rules of Order.
 
-### Section 1. Rules.
+### Section 1: Adoption.
 
-The Rules contained in Robert’s Rules of Order, Newly Revised, shall govern this Local in cases to which they are applicable and in which they are not inconsistent with these Bylaws. Consensus decision-making is desirable where feasible, but meetings must submit to Robert’s Rules of Order upon the request of a member.
+Upon passage, these by-laws will go into effect at the 2018 annual Local Convention.
 
-### Section 2. Action Out of Order.
+### Section 2: Interpretation.
 
-Any action taken by an officer or member of the Local in contravention of these Bylaws is null and void.
+These bylaws shall be interpreted by the Local Council, subject only to appeal to the Local Convention or a Special Meeting. The interpretation of the Local Convention or Special Meeting shall be final.
+
+### Section 3: Majority Vote.
+
+ Unless specified otherwise in these bylaws, decisions are made by a simple majority vote (“50% plus 1”).
+
+### Section 4: Rusty’s Rules.
+
+Unless specified otherwise in these bylaws, the Local Council and other bodies where official business is conducted shall operate by Rusty’s Rules of Order. Any group or committee of Local members, including the Local Council, may decide by a two-thirds majority vote to adopt different rules for their body or for the duration of any specific meeting.
