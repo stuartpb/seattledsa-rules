@@ -217,6 +217,16 @@ Additional Committees or Working Groups shall be formed by the Local Council to 
 
 The Local Council shall adjudicate any jurisdictional disputes between committees, working groups, and Local Council Members.
 
+## ARTICLE VII. Caucuses.
+
+### Section 1: Definition and Purpose.
+
+Caucuses are independent, unofficial formations of members within the Local. The Local encourages the formation of Caucuses to promote a vibrant democratic culture within the organization. With or without consent from or recognition by any official Local leadership or the Local itself, members may self-organize into temporary or permanent caucuses according to shared interests, affinities, and/or political goals. Caucuses may promote policies and actions for the Local to take on, and may challenge Local leadership and/or official Local policies.
+
+### Section 2: Official Recognition.
+
+A Caucus will be formally recognized by the Local in one or more official media if no less than five members in good standing sign a mission statement that includes the name and purpose of the Caucus. This mission statement must be reaffirmed annually to retain formal recognition. The Local Secretary will be responsible for ensuring proper recognition.
+
 ## ARTICLE VIII. Branches.
 
 ### Section 1. Definition.
