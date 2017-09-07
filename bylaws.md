@@ -239,6 +239,16 @@ Branches are geographical subgroups of the Local consisting of at least five ful
 
 Delegates to National, Regional, and State bodies shall be elected by the General Membership at a Special or General Meeting within ninety days of the Convention or other gathering at which delegates are needed. When scheduling a delegate election, the Local Council should always aim to minimize the cost of travel for elected delegates. The delegate election process will conform to DSA National bylaws and the National Convention calendar.
 
+## ARTICLE X. Dues.
+
+### Section 1.
+
+Pursuant to Article II, Section 5 of the National DSA Bylaws, the Local may institute, change, or abolish voluntary Local Dues by a majority vote of the Membership at a General Membership Meeting.
+
+### Section 2: Solidarity Fund.
+
+10% of all Dues received by the local will be allocated to a Solidarity Fund. These funds will be reserved for bail payments, support for workplace organizing, and related needs, as approved by the Local Council.
+
 ## ARTICLE XII. Nominations and Recalls.
 
 ### Section 1. Nominations Committee.
