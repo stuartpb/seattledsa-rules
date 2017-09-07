@@ -18,6 +18,44 @@ We are socialists because we are developing a concrete strategy for achieving th
 
 The name of this organization shall be the Seattle Local of the Democratic Socialists of America, also known as Seattle DSA or SDSA, and referred to throughout this document as the Local.
 
+## ARTICLE II. Basic Organization and Conventions.
+
+### Section 1: General Membership.
+
+The General Membership of the Local, meeting in Convention, General, or Special Meeting, shall be the highest legislative body of the organization. Between Conventions and Special Meetings, the Local Council shall be responsible for the administration of the organization and the implementation of policies formulated by the General Membership.
+
+### Section 2: Conventions.
+
+The Local shall meet in Convention annually during the first six months of the year, with at least sixty days notice given to all members. The Convention shall meet to elect officers, and to debate and decide primarily, but not exclusively, Local issues, the political orientation of the organization, and program direction.
+
+### Section 3: Special Meetings.
+
+A Special Meeting of the Local shall be called by the Local Council or by ten percent of members, with at least five days notice given to all members. The call to the Special Meeting shall specify the matters to be discussed therein and no other matter may be brought to the floor.
+
+### Section 4: General Meetings.
+
+The Local will hold General Meetings at least four times annually, the time and place of which shall be set in a schedule published and distributed by the Local Council. The Local Council will set the agenda for General Meetings.
+
+### Section 5: Informational Meetings.
+
+The Local Council may call additional Local-wide Informational Meetings for a variety of reasons but at which official business will not be conducted and policies will not be set. For the purposes of these bylaws, Local-wide Informational Meetings should not be considered General Meetings.
+
+### Section 6: Rules.
+
+All resolutions, amendments, and officer reports presented to the Local’s membership at the Convention will allow for a question and answer period to be followed by speakers wishing to voice their opinions. All other rules covering the conduct of the Convention or Special Meeting shall be set by the Local Council or a committee it appoints for that purpose.
+
+### Section 7: Electoral Endorsements.
+
+The General Membership in Convention, General or Special Meeting is the only body authorized with making electoral endorsements on behalf of the Local. In exceptional situations the Local Council may endorse candidates by three-quarters vote where time constraints forbid holding a Special Meeting. Unless otherwise authorized, members or committees of the Local are prohibited from campaigning as representatives of DSA for candidates or ballot measures that the Local has not officially endorsed.
+
+### Section 8: Public Representation.
+
+Unless otherwise authorized, members or committees of the Local are prohibited from representing themselves as speaking on behalf of the Local on positions or policies that the Local has not officially endorsed.
+
+### Section 9: Quorums.
+
+Unless specified otherwise in these bylaws, a quorum of ten percent of the membership shall be required for valid meetings of the Convention, Special Meeting, or General Meeting.
+
 ## ARTICLE III. Membership.
 
 ### Section 1. Membership
@@ -31,28 +69,6 @@ If a full member is found to be in substantial disagreement with the principles 
 ### Section 3. Dues.
 
 The Local chapter may establish a Local pledge system of voluntary donations for its members.
-
-## ARTICLE IV. Local Meetings.
-
-### Section 1: Conventions.
-
-The Local shall meet in Convention annually during the first six months of the year, with at least sixty days notice given to all members. The Convention shall meet to elect officers, and to debate and decide primarily, but not exclusively, Local issues, the political orientation of the organization, and program direction.
-
-### Section 2: Special Meetings.
-
-A Special Meeting of the Local shall be called by the Local Council or by ten percent of members, with at least five days notice given to all members. The call to the Special Meeting shall specify the matters to be discussed therein and no other matter may be brought to the floor.
-
-### Section 3: General Meetings.
-
-The Local will hold General Meetings at least four times annually, the time and place of which shall be set in a schedule published and distributed by the Local Council. The Local Council will set the agenda for General Meetings.
-
-### Section 4: Informational Meetings.
-
-The Local Council may call additional Local-wide Informational Meetings for a variety of reasons but at which official business will not be conducted and policies will not be set. For the purposes of these bylaws, Local-wide Informational Meetings should not be considered General Meetings.
-
-### Section 5: Quorums.
-
-Unless specified otherwise in these bylaws, a quorum of ten percent of the membership shall be required for valid meetings of the Convention, Special Meeting, or General Meeting.
 
 ## ARTICLE V. Local Officers: Powers and Duties.
 
