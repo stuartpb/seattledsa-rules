@@ -229,13 +229,9 @@ A Caucus will be formally recognized by the Local in one or more official media 
 
 ## ARTICLE VIII. Branches.
 
-### Section 1. Definition.
+### Section 1: Definition and Purpose.
 
-A branch is a subgroup of the Local consisting of at least five full members in good standing with national DSA. Branches may be defined by geography, work site, constituency (e.g., labor, minority, feminist), or area of political work (e.g., peace action, environmental movement). The chairs of branches will hold membership on the Local Executive Committee.
-
-### Section 2. Youth Sections.
-
-Branches established on college campuses and consisting of students will be called Local Youth Sections. Youth Sections must have at least five full members in good standing with national DSA. The chairs of Local Youth Sections will hold membership on the Local Executive Committee.
+Branches are geographical subgroups of the Local consisting of at least five full members in good standing. Branches may hold Informational Meetings, outreach events, and other gatherings where official business of the Local will not be conducted.
 
 ## ARTICLE X. Delegates to National, Regional, and State Bodies.
 
