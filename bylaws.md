@@ -249,20 +249,6 @@ Pursuant to Article II, Section 5 of the National DSA Bylaws, the Local may inst
 
 10% of all Dues received by the local will be allocated to a Solidarity Fund. These funds will be reserved for bail payments, support for workplace organizing, and related needs, as approved by the Local Council.
 
-## ARTICLE XII. Nominations and Recalls.
-
-### Section 1. Nominations Committee.
-
-A three-person Nominations Committee shall be established at least one month prior to every election by vote of a Regular Meeting. It shall solicit and receive nominations for the positions to be elected.
-
-### Section 2. Nominations Process.
-
-Nominations for Local officers and delegates to the National Convention shall be opened 10 days before and closed at the Annual Meeting. The call for nominations shall be announced to full members of DSA in advance of the General Meeting.
-
-### Section 3. Uncontested Positions.
-
-If a position is uncontested, the nominee will be declared elected by acclamation.
-
 ## ARTICLE XIII. Amendments.
 
 ### Section 1:
