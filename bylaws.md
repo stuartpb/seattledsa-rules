@@ -249,7 +249,7 @@ Pursuant to Article II, Section 5 of the National DSA Bylaws, the Local may inst
 
 10% of all Dues received by the local will be allocated to a Solidarity Fund. These funds will be reserved for bail payments, support for workplace organizing, and related needs, as approved by the Local Council.
 
-## ARTICLE XIII. Amendments.
+## ARTICLE XI. Amendments.
 
 ### Section 1:
 
