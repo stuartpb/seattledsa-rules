@@ -4,7 +4,7 @@
 
 ## ARTICLE I.	Name.
 
-The name of the Local shall be Seattle Democratic Socialists of America, a not-for-profit corporation.
+The name of the Local shall be Spud Smedley's Seattle Democratic Socialists of America, a not-for-profit corporation.
 
 ## ARTICLE II. Purpose.
 
