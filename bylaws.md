@@ -30,7 +30,7 @@ The Local shall meet in Convention annually during the first six months of the y
 
 ### Section 3: Special Meetings.
 
-A Special Meeting of the Local shall be called by the Local Council or by ten percent of members, with at least five days notice given to all members. The call to the Special Meeting shall specify the matters to be discussed therein and no other matter may be brought to the floor.
+A Special Meeting of the Local shall be called by the Local Council or by ten percent of members, with at least five days notice given to all members. The call to the Special Meeting shall specify the matters to be discussed therein and no other matter may be brought to the floor. The Local Council may also designate a scheduled informational meeting as a General meeting with at least 5 days notice given to all members.
 
 ### Section 4: General Meetings.
 
