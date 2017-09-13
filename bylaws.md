@@ -22,7 +22,7 @@ The name of this organization shall be the Seattle Local of the Democratic Socia
 
 ### Section 1: General Membership.
 
-The General Membership of the Local, meeting in Convention, General, or Special Meeting, shall be the highest legislative body of the organization. Between Conventions and Special Meetings, the Local Council shall be responsible for the administration of the organization and the implementation of policies formulated by the General Membership.
+The General Membership of the Local, meeting in Convention, General Membership meeting, or Special Meeting, shall be the highest legislative body of the organization. Between Conventions and Special Meetings, the Local Council shall be responsible for the administration of the organization and the implementation of policies formulated by the General Membership.
 
 ### Section 2: Conventions.
 
@@ -30,11 +30,11 @@ The Local shall meet in Convention annually during the first six months of the y
 
 ### Section 3: Special Meetings.
 
-A Special Meeting of the Local shall be called by the Local Council or by ten percent of members, with at least five days notice given to all members. The call to the Special Meeting shall specify the matters to be discussed therein and no other matter may be brought to the floor.
+A Special Meeting of the Local shall be called by the Local Council or by ten percent of members, with at least five days notice given to all members. The call to the Special Meeting shall specify the matters to be discussed therein and no other matter may be brought to the floor. The Local Council may also designate a scheduled informational meeting as a General meeting with at least 5 days notice given to all members.
 
 ### Section 4: General Meetings.
 
-The Local will hold General Meetings at least four times annually, the time and place of which shall be set in a schedule published and distributed by the Local Council. The Local Council will set the agenda for General Meetings.
+The Local will hold General Meetings at least four times annually, the time and place of which shall be set in a schedule published and distributed by the Local Council. The Local Council will set the agenda for General Meetings, subject to approval and amendment by the members present.
 
 ### Section 5: Informational Meetings.
 
@@ -42,7 +42,7 @@ The Local Council may call additional Local-wide Informational Meetings for a va
 
 ### Section 6: Rules.
 
-All resolutions, amendments, and officer reports presented to the Local’s membership at the Convention will allow for a question and answer period to be followed by speakers wishing to voice their opinions. All other rules covering the conduct of the Convention or Special Meeting shall be set by the Local Council or a committee it appoints for that purpose.
+All resolutions, amendments, and officer reports presented to the Local’s membership at the Convention will allow for a question and answer period to be followed by speakers wishing to voice their opinions. All other rules covering the conduct of the Convention or Special Meeting shall be set by the Local Council or a committee it appoints for that purpose subject to the approval of adoption of rules by the convention.
 
 ### Section 7: Electoral Endorsements.
 
@@ -66,7 +66,7 @@ Members in good standing will include all DSA members residing within the Local 
 
 All Members in good standing shall be eligible to:
 
-Vote in all elections and matters brought before The General Membership, and
+Vote in all elections and matters brought before The General Membership, including approving policies and guidelines for the operation of the local chapter, and
 
 Be elected as delegates from the Local to Regional, State, or National DSA convenings, after having been a Member for at least sixty days; and
 
@@ -82,7 +82,7 @@ The Local shall have an official grievance policy in accordance with national gu
 
 ### Section 5: Member Discipline, Suspension, and Expulsion.
 
-Pursuant to Article III, Section 4 of the National DSA constitution, the Local Council shall have the power to suspend or expel members from the Local. Members facing suspension or expulsion must receive written notice of charges against them at least fifteen days before a meeting of the Local Council and must be given the opportunity to be heard before the Local Council. A two-thirds vote is required to suspend or expel a member. The Local Council will only have the power to suspend or expel a member from the Local. Only the National organization shall have the power to suspend or expel a member from the National organization. Decisions on suspension or expulsion may be appealed at the Local Convention, by Special Meeting, or to the National Political Committee of DSA.
+Pursuant to Article III, Section 4 of the National DSA constitution, the Local Council shall have the power to suspend or expel members from the Local. In order for such a finding to be made, another DSA member must formally prefer written charges against the member in question to the Local Council. Members facing suspension or expulsion must receive written notice of charges against them at least fifteen days before a meeting of the Local Council and must be given the opportunity to be heard before the Local Council. A two-thirds vote is required to suspend or expel a member. The Local Council will only have the power to suspend or expel a member from the Local. Only the National organization shall have the power to suspend or expel a member from the National organization. Decisions on suspension or expulsion may be appealed at the Local Convention, at a General membership meeting, by Special Meeting, or to the National Political Committee of DSA.
 
 Members may be disciplined:
 
@@ -94,9 +94,13 @@ if they consistently engage in undemocratic, disruptive behavior.
 
 ## ARTICLE IV: Election of Officers.
 
-### Section 1: Nominations.
+### Section 1: Elections Committee.
 
-All Officers of the Local Council shall be elected at the Local’s annual Convention. Nominations to run for the Local Council may be submitted to the outgoing Local Council in advance of the Convention. Nominations from the floor of the Convention, with eight members who are eligible to vote seconding the nomination, are also allowed. Any member may nominate another member in good standing for elected position in the Local. No one may nominate themselves.
+An elections committee of at least three members shall be established by the Local Council at least ninety days prior to every election. It shall solicit and receive nominations for the positions to be elected, certify eligibility, conduct the election and certify the results.
+
+### Section 2: Nominations.
+
+All Officers of the Local Council shall be elected at the Local’s annual Convention. Nominations to run for the Local Council may be submitted to the Elections Committee in advance of the Convention. Nominations from the floor of the Convention, with eight members who are eligible to vote seconding the nomination, are also allowed. Any member may nominate another member in good standing for an elected position in the Local. No one may nominate themselves.
 
 ### Section 3: Process.
 
@@ -104,7 +108,7 @@ The elections process shall be fair, transparent, and democratic. There shall be
 
 ### Section 4: Noticing of Elections.
 
-Along with notice of the Local’s annual Convention (see Article II, section 2), the Local Council shall include the time and place of the election, the candidates and/or questions before the membership in the election, and all pertinent instructions.
+Along with notice of the Local’s annual Convention (see Article II, section 2), the Local Council shall include the time and place of the election, qualifications for office, the process for nominations, and/or questions before the membership in the Convention, and all pertinent instructions.
 
 ## ARTICLE V: Local Council.
 
@@ -134,9 +138,9 @@ The Local Council is responsible for presenting a “State of the Local” addre
 
 The Local Council is responsible for fairly adjudicating disagreements between members or groups of members within the Local. This shall include developing and overseeing an accountable and fair mechanism of conflict resolution.
 
-### Section 7: Voting.
+### Section 7: Meetings and Voting.
 
-Unless stated otherwise in these bylaws, all elected and appointed members of the Local Council have full and equal voting rights for Local Council decisions. The Local Council shall hold official meetings no less than once every sixty days, the time and place of which shall be set in a schedule published and distributed by the Local Council no less than seven days prior. Regular meetings of the Local Council may be attended by all members in good standing.
+Unless stated otherwise in these bylaws, all elected and appointed members of the Local Council have full and equal voting rights for Local Council decisions. The Local Council shall hold official meetings no less than once every month, at a regular time and place of which shall be set in a schedule published and distributed by the Local Council to the General membership no less than seven days prior. Regular meetings of the Local Council may be attended by all members in good standing. Minutes shall be provided to the General Membership.
 
 ### Section 8: Special Meetings.
 
@@ -156,7 +160,7 @@ The Co-Chairs shall be the official public spokespersons for the Local and will 
 
 The Co-Chairs will also act as, or appoint, the official representatives of the Local to the National Organization and to other DSA Locals. This does not apply during official business at the National DSA Convention, when Local Delegates may act independently on behalf of the Local’s membership.
 
-The Co-Chairs serve as executive officers of the Local, and they are listed on financial accounts along with the Treasurer. Expenditures over $200 must be approved by the Treasurer and no less than one Co-Chair.
+The Co-Chairs serve as executive officers of the Local, and they are listed on financial accounts along with the Treasurer. Expenditures within the budget over $200 must be approved by the Treasurer and no less than one Co-Chair.
 
 At least one Co-Chair must be a person who does not identify as both White and Cis-Male.
 
