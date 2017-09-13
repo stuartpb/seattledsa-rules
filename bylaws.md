@@ -140,7 +140,7 @@ The Local Council is responsible for fairly adjudicating disagreements between m
 
 ### Section 7: Meetings and Voting.
 
-Unless stated otherwise in these bylaws, all elected and appointed members of the Local Council have full and equal voting rights for Local Council decisions. The Local Council shall hold official meetings no less than once every month, the time and place of which shall be set in a schedule published and distributed by the Local Council no less than seven days prior. Regular meetings of the Local Council may be attended by all members in good standing.
+Unless stated otherwise in these bylaws, all elected and appointed members of the Local Council have full and equal voting rights for Local Council decisions. The Local Council shall hold official meetings no less than once every month, at a regular time and place of which shall be set in a schedule published and distributed by the Local Council to the General membership no less than seven days prior. Regular meetings of the Local Council may be attended by all members in good standing. Minutes shall be provided to the General Membership.
 
 ### Section 8: Special Meetings.
 
@@ -160,7 +160,7 @@ The Co-Chairs shall be the official public spokespersons for the Local and will 
 
 The Co-Chairs will also act as, or appoint, the official representatives of the Local to the National Organization and to other DSA Locals. This does not apply during official business at the National DSA Convention, when Local Delegates may act independently on behalf of the Local’s membership.
 
-The Co-Chairs serve as executive officers of the Local, and they are listed on financial accounts along with the Treasurer. Expenditures over $200 must be approved by the Treasurer and no less than one Co-Chair.
+The Co-Chairs serve as executive officers of the Local, and they are listed on financial accounts along with the Treasurer. Expenditures within the budget over $200 must be approved by the Treasurer and no less than one Co-Chair.
 
 At least one Co-Chair must be a person who does not identify as both White and Cis-Male.
 
