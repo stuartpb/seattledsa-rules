@@ -138,9 +138,9 @@ The Local Council is responsible for presenting a “State of the Local” addre
 
 The Local Council is responsible for fairly adjudicating disagreements between members or groups of members within the Local. This shall include developing and overseeing an accountable and fair mechanism of conflict resolution.
 
-### Section 7: Voting.
+### Section 7: Meetings and Voting.
 
-Unless stated otherwise in these bylaws, all elected and appointed members of the Local Council have full and equal voting rights for Local Council decisions. The Local Council shall hold official meetings no less than once every sixty days, the time and place of which shall be set in a schedule published and distributed by the Local Council no less than seven days prior. Regular meetings of the Local Council may be attended by all members in good standing.
+Unless stated otherwise in these bylaws, all elected and appointed members of the Local Council have full and equal voting rights for Local Council decisions. The Local Council shall hold official meetings no less than once every month, the time and place of which shall be set in a schedule published and distributed by the Local Council no less than seven days prior. Regular meetings of the Local Council may be attended by all members in good standing.
 
 ### Section 8: Special Meetings.
 
