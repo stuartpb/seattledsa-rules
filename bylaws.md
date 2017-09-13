@@ -108,7 +108,7 @@ The elections process shall be fair, transparent, and democratic. There shall be
 
 ### Section 4: Noticing of Elections.
 
-Along with notice of the Local’s annual Convention (see Article II, section 2), the Local Council shall include the time and place of the election, the candidates and/or questions before the membership in the election, and all pertinent instructions.
+Along with notice of the Local’s annual Convention (see Article II, section 2), the Local Council shall include the time and place of the election, qualifications for office, the process for nominations, and/or questions before the membership in the Convention, and all pertinent instructions.
 
 ## ARTICLE V: Local Council.
 
