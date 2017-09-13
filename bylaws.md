@@ -94,7 +94,11 @@ if they consistently engage in undemocratic, disruptive behavior.
 
 ## ARTICLE IV: Election of Officers.
 
-### Section 1: Nominations.
+### Section 1: Elections Committee.
+
+An elections committee of at least three members shall be established by the Local Council at least ninety days prior to every election. It shall solicit and receive nominations for the positions to be elected, certify eligibility, conduct the election and certify the results.
+
+### Section 2: Nominations.
 
 All Officers of the Local Council shall be elected at the Local’s annual Convention. Nominations to run for the Local Council may be submitted to the outgoing Local Council in advance of the Convention. Nominations from the floor of the Convention, with eight members who are eligible to vote seconding the nomination, are also allowed. Any member may nominate another member in good standing for elected position in the Local. No one may nominate themselves.
 
