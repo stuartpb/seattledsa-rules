@@ -34,7 +34,7 @@ A Special Meeting of the Local shall be called by the Local Council or by ten pe
 
 ### Section 4: General Meetings.
 
-The Local will hold General Meetings at least four times annually, the time and place of which shall be set in a schedule published and distributed by the Local Council. The Local Council will set the agenda for General Meetings.
+The Local will hold General Meetings at least four times annually, the time and place of which shall be set in a schedule published and distributed by the Local Council. The Local Council will set the agenda for General Meetings, subject to approval and amendment by the members present.
 
 ### Section 5: Informational Meetings.
 
