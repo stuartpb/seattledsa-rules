@@ -42,7 +42,7 @@ The Local Council may call additional Local-wide Informational Meetings for a va
 
 ### Section 6: Rules.
 
-All resolutions, amendments, and officer reports presented to the Local’s membership at the Convention will allow for a question and answer period to be followed by speakers wishing to voice their opinions. All other rules covering the conduct of the Convention or Special Meeting shall be set by the Local Council or a committee it appoints for that purpose.
+All resolutions, amendments, and officer reports presented to the Local’s membership at the Convention will allow for a question and answer period to be followed by speakers wishing to voice their opinions. All other rules covering the conduct of the Convention or Special Meeting shall be set by the Local Council or a committee it appoints for that purpose subject to the approval of adoption of rules by the convention.
 
 ### Section 7: Electoral Endorsements.
 
