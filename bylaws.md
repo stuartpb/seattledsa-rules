@@ -100,7 +100,7 @@ An elections committee of at least three members shall be established by the Loc
 
 ### Section 2: Nominations.
 
-All Officers of the Local Council shall be elected at the Local’s annual Convention. Nominations to run for the Local Council may be submitted to the outgoing Local Council in advance of the Convention. Nominations from the floor of the Convention, with eight members who are eligible to vote seconding the nomination, are also allowed. Any member may nominate another member in good standing for elected position in the Local. No one may nominate themselves.
+All Officers of the Local Council shall be elected at the Local’s annual Convention. Nominations to run for the Local Council may be submitted to the Elections Committee in advance of the Convention. Nominations from the floor of the Convention, with eight members who are eligible to vote seconding the nomination, are also allowed. Any member may nominate another member in good standing for an elected position in the Local. No one may nominate themselves.
 
 ### Section 3: Process.
 
