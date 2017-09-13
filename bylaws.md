@@ -66,7 +66,7 @@ Members in good standing will include all DSA members residing within the Local 
 
 All Members in good standing shall be eligible to:
 
-Vote in all elections and matters brought before The General Membership, and
+Vote in all elections and matters brought before The General Membership, including approving policies and guidelines for the operation of the local chapter, and
 
 Be elected as delegates from the Local to Regional, State, or National DSA convenings, after having been a Member for at least sixty days; and
 
