@@ -22,7 +22,7 @@ The name of this organization shall be the Seattle Local of the Democratic Socia
 
 ### Section 1: General Membership.
 
-The General Membership of the Local, meeting in Convention, General, or Special Meeting, shall be the highest legislative body of the organization. Between Conventions and Special Meetings, the Local Council shall be responsible for the administration of the organization and the implementation of policies formulated by the General Membership.
+The General Membership of the Local, meeting in Convention, General Membership meeting, or Special Meeting, shall be the highest legislative body of the organization. Between Conventions and Special Meetings, the Local Council shall be responsible for the administration of the organization and the implementation of policies formulated by the General Membership.
 
 ### Section 2: Conventions.
 
